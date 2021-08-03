@@ -59,7 +59,7 @@ receive the ECTS credits you must complete the coursework.
 
 I gratefully acknowledge the authors of the following sources:
 
-Python Data Science Handbook https://github.com/jakevdp/PythonDataScienceHandbook by Jake VanderPlas
-Whirlwind Tour of Python https://github.com/jakevdp/WhirlwindTourOfPython by Jake VanderPlas
-Programming with Python https://swcarpentry.github.io/python-novice-inflammation/ by the Software Carpentry Foundation
-Objected-oriented Python https://object-oriented-python.github.io by David Ham
+1. [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake VanderPlas
+2. [Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) by Jake VanderPlas
+3. [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/) by the Software Carpentry Foundation
+4. [Objected-oriented Python](https://object-oriented-python.github.io) by David Ham
