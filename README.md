@@ -5,11 +5,13 @@
 ### Practicalities
 
 Instructor: Jack S. Hale (jack.hale@uni.lu). Office hours: 1500-1600 Wednesdays.
+
+Course Room: MNO 1.010
+
 Dates:
 * Tuesday 14th September 0900 - 1700.
 * Wednesday 15th September 0900 - 1700.
 * Friday 17th September 0800 - 1000 and 1230 - 1700.
-Room: MNO 1.010
 
 ### Description
 
