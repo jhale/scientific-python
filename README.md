@@ -25,7 +25,9 @@ Doctoral degrees at the University.
 * This course is offered as "Level Up: Coding (Python)" in the Masters in
   Industrial Mathematics.
 
-* The Etherpad for the 2021 edition is at: https://pad.carpentries.org/spul2021
+* The Etherpad for the 2021 edition is at: https://pad.carpentries.org/spul2021.
+  The Etherpad is public, please use a pseudonym and do not reveal any personal
+  information.
 
 * During the course we will be using Google Colab to execute Python scripts.
   *Please ensure that you can logon to https://colab.research.google.com/ before
