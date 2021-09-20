@@ -8,15 +8,16 @@ Homework should be submitted by Friday 22nd October 1700.
 
 Please submit your homework by saving files with name
 `LASTNAME_Firstname_Scientific_Python.ipynb` and
-`LASTNAME_Firstname_monte_carlo.py`. Send an email to jack.hale@uni.lu with the
-subject `Scientific Python Homework` with the two files as attachments. It is
-mandatory to complete the homework in order to receive the ECTS credits or the
-certification with "completed homework" mark.
+`LASTNAME_Firstname_monte_carlo.py`. Send an [email to
+jack.hale@uni.lu](mailto:jack.hale@uni.lu?subject=Scientific Python Homework)
+with the subject `Scientific Python Homework` with the two files as
+attachments. It is mandatory to complete the homework in order to receive the
+ECTS credits or the certification with "completed homework" mark.
 
 ### How to ask a question
 
 For both technical and non-technical questions about the homework please ask on
-the Etherpad at https://pad.carpentries.org/spul2021. *Please do not post full
+the [Etherpad](https://pad.carpentries.org/spul2021). *Please do not post full
 solutions on the Etherpad. Small snippets of code to explain your question are
 fine!*
 
@@ -25,19 +26,19 @@ fine!*
 Please make use of a search engine, the internet, and the knowledge of your
 colleagues when completing the homework, but write your answers in your own
 words and code. It is expected that you use the documentation to help you
-answer the questions (`np.lookfor`, https://pandas.org, https://numpy.org/,
-https://matplotlib.org etc.).
+answer the questions (`np.lookfor`, [Pandas](https://pandas.org), [numpy](https://numpy.org/),
+[matplotlib](https://matplotlib.org) etc.).
 
 ### Short questions
 
 This section should be answered on Google Colab and saved to a file
 `LASTNAME_Firstname_Scientific_Python.ipynb`.
 
-For the text answers try a Markdown Cell (https://www.markdownguide.org) by
+For the text answers try a [Markdown Cell](https://www.markdownguide.org) by
 using the *Text +* button on Google Colab.
 
-1. Read and execute the `matplotlib` sections in the Jake Vanderplas book
-   (03.08-03.13); https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks Write
+1. Read and execute the `matplotlib` sections in the [Jake Vanderplas book
+   (03.08-03.13)](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks) Write
    a short (a few lines summary) of each section. Show three example plots.
 
 2. Explain and demonstrate 8 (or more!) pieces of ‘good practice’ when
@@ -53,12 +54,12 @@ using the *Text +* button on Google Colab.
 5. Why should you prefer using iterators over counters and indexing into list
    or array elements?
 
-6. Write three routines for performing a dense Matrix-Vector multiplication
-   (https://en.wikipedia.org/wiki/Matrix_multiplication) using:
+6. Write three routines for performing a dense [Matrix-Vector
+   multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication) using:
     1. Python list of lists as the main data structures (use loops over
        entities). In this case, it is easier to write this algorithm with
-       columns indexed first (column-major ordering
-       https://en.wikipedia.org/wiki/Row-_and_column-major_order).
+       columns indexed first [column-major
+       ordering](https://en.wikipedia.org/wiki/Row-_and_column-major_order)).
     2. Numpy arrays as the main data structures (use loops over the entries).
     3. Using Numpy’s built in matrix multiplication A@b.
 
@@ -81,8 +82,7 @@ things like good variable naming cannot be automated.
 
 Beginning with the basic code in the notebook cell below:
 
-1. Add comments throughout your code following the advice at
-   https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/
+1. Add comments throughout your code following the advice [here](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/)
 2. Add a documentation string to the function `estimate_pi`.
 3. Remove the call to `np.sqrt`. Explain why you can do this in a comment.
 4. Plot the error on a log-log plot instead of a linear plot.
@@ -94,7 +94,6 @@ Beginning with the basic code in the notebook cell below:
    your code with a second loop to perform this operation.
 6. Calculate the slope of the mean error vs N data in log-log space using the
    functionality in `numpy.Polynomial`.
-   https://numpy.org/doc/stable/reference/routines.polynomials.package.html#module-numpy.polynomial.
    You should have a slope of around -0.5. Bonus: Is this the expected result?
    Can you explain why?
 7. Add axis labels and a title to your plot.
