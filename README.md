@@ -4,9 +4,10 @@
 
 ### Practicalities
 
-Instructor: Jack S. Hale (jack.hale@uni.lu). Office hours: 1000-1100 Wednesdays.
+Instructor: Jack S. Hale (Email: [jack.hale@uni.lu](mailto:jack.hale@uni.lu)).
+Office hours: 1000-1100 Wednesdays.
 
-Dates:
+#### Dates
 * 20/09, 1400-1630, MSA 3.230.
 * 27/09, 1400-1630, MSA 3.070.
 * 04/10, 1400-1630, MSA 3.220.
@@ -23,14 +24,14 @@ Doctoral degrees at the University.
 
 * You must bring a laptop with working WiFi internet access.
 
-* The Etherpad for the 2022 edition is at: https://pad.carpentries.org/spul2022.
-  The Etherpad is public, please use a pseudonym and do not reveal any personal
-  information.
+* We will use [Etherpad](https://pad.carpentries.org/spul2022), a live
+  collaborative note taking application. Etherpad is public, please use a
+  pseudonym and do not reveal any personal information.
 
-* During the course we will be using Google Colab to execute Python scripts.
-  *Please ensure that you can logon to https://colab.research.google.com/ before
-  the course starts*. I will also discuss the best ways to install and use Python
-  on your own machine.
+* We will be using [Google Colaboratory](https://colab.research.google.com) to
+  execute Python scripts and notebooks. *Please ensure that you can log on
+  before the course starts*. I will also discuss the best ways to install and
+  use Python on your own machine.
 
 ### Outline
 
