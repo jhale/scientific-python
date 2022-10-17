@@ -4,7 +4,7 @@
 
 ### Instructions
 
-Homework should be submitted by Friday 22nd October 1700.
+Homework should be submitted by Friday 18th November 2022 1700.
 
 Please submit your homework by saving files with name
 `LASTNAME_Firstname_Scientific_Python.ipynb` and
@@ -17,17 +17,17 @@ ECTS credits or the certification with "completed homework" mark.
 ### How to ask a question
 
 For both technical and non-technical questions about the homework please ask on
-the [Etherpad](https://pad.carpentries.org/spul2021). *Please do not post full
+the [Etherpad](https://pad.carpentries.org/spul2022). *Please do not post full
 solutions on the Etherpad. Small snippets of code to explain your question are
-fine!*
+OK though!*
 
 ### Collaboration
 
 Please make use of a search engine, the internet, and the knowledge of your
 colleagues when completing the homework, but write your answers in your own
 words and code. It is expected that you use the documentation to help you
-answer the questions (`np.lookfor`, [Pandas](https://pandas.org), [numpy](https://numpy.org/),
-[matplotlib](https://matplotlib.org) etc.).
+answer the questions (`np.lookfor`, [Pandas](https://pandas.org),
+[numpy](https://numpy.org/), [matplotlib](https://matplotlib.org) etc.).
 
 ### Short questions
 
@@ -64,17 +64,25 @@ using the *Text +* button on Google Colab.
     3. Using Numpy’s built in matrix multiplication A@b.
 
    Use `assert` and `np.allclose` to make sure the answers are close to the
-   answer provided by numpy's    implementation. Time each of the above methods
+   answer provided by numpy's implementation. Time each of the above methods
    (use the `%timeit` magic within a cell to time execution). You will need to
    use a large linear system e.g. of at least dimension 1000 to get accurate
    timings. Comment on the results.
 
 ### `numpy` long question
 
+Instead of using a notebook, please attempt this exercise by running Python
+from the terminal `python3 LASTNAME_Firstname_monte_carlo.py` and edit the code
+using your preferred text editor (avoid Notepad on Windows, try Notepad++ or
+Sublime).
+
+On Mac, Linux and Windows, I recommend the [Anaconda Python
+distribution](https://www.anaconda.com/products/distribution) but you are free
+to use any reasonably modern distribution of Python (Linux packages, Homebrew
+etc.).
+
 The completed code for this exercise should be submitted as a Python script
-`LASTNAME_Firstname_monte_carlo.py`. Instead of using a Notebook, please try
-using Python from the terminal `python3 LASTNAME_Firstname_monte_carlo.py`  and
-edit the code using a text editor. 
+`LASTNAME_Firstname_monte_carlo.py`. 
 
 Please read and follow the PEP8 style guide when writing your code. Most
 formatting issues should be taken care of by the code formatter in step 8., but
@@ -82,7 +90,8 @@ things like good variable naming cannot be automated.
 
 Beginning with the basic code in the notebook cell below:
 
-1. Add comments throughout your code following the advice [here](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/)
+1. Add comments throughout your code following the advice
+   [here](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/)
 2. Add a documentation string to the function `estimate_pi`.
 3. Remove the call to `np.sqrt`. Explain why you can do this in a comment.
 4. Plot the error on a log-log plot instead of a linear plot.
@@ -98,7 +107,8 @@ Beginning with the basic code in the notebook cell below:
    Can you explain why?
 7. Add axis labels and a title to your plot.
 8. Put your code through an automatic code formatter e.g. `autopep8 -i
-   LASTNAME_Firstname_monte_carlo.py` before submitting it.
+   LASTNAME_Firstname_monte_carlo.py` before submitting it. You can install
+   autopep8 using `pip install autopep8`.
 
 ```python
 import numpy as np
