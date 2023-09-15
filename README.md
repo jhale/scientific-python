@@ -1,17 +1,17 @@
 # Scientific Python
-## Winter Semester 2022/2023, Masters in Industrial Mathematics
+## Winter Semester 2023/2024, Masters in Industrial Mathematics
 ## Doctoral Programme in Science and Engineering (DSSE)
 
 ### Practicalities
 
 Instructor: Jack S. Hale (Email: [jack.hale@uni.lu](mailto:jack.hale@uni.lu)).
-Office hours: 1000-1100 Wednesdays.
+Office hours: 1000-1100 Wednesdays, drop-in.
 
 #### Dates
-* 20/09, 1400-1630, MSA 3.230.
-* 27/09, 1400-1630, MSA 3.070.
-* 04/10, 1400-1630, MSA 3.220.
-* 11/10, 1400-1630, MSA 3.070.
+* 21/09, 1330-1600, MNO 1.050.
+* 28/09, 1330-1600, MNO 1.050.
+* 05/10, 1330-1600, MNO 1.050.
+* 11/10, 1330-1600, MNO 1.050.
 
 ### Description
 
@@ -22,9 +22,9 @@ Doctoral degrees at the University.
 
 ### Useful information
 
-* You must bring a laptop with working WiFi internet access.
+* You must bring a laptop with working WiFi access.
 
-* We will use [Etherpad](https://pad.carpentries.org/spul2022), a live
+* We will use [Etherpad](https://pad.carpentries.org/spul2023), a live
   collaborative note taking application. Etherpad is public, please use a
   pseudonym and do not reveal any personal information.
 
@@ -32,6 +32,10 @@ Doctoral degrees at the University.
   execute Python scripts and notebooks. *Please ensure that you can log on
   before the course starts*. I will also discuss the best ways to install and
   use Python on your own machine.
+
+* Please make sure you can login to [wooclap](https://wooclap.com).
+
+* Important course information will be communicated via the University Moodle.
 
 ### Outline
 
