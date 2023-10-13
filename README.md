@@ -4,7 +4,7 @@
 
 ### Practicalities
 
-Instructor: Jack S. Hale (Email: [jack.hale@uni.lu](mailto:jack.hale@uni.lu)).
+Instructor: Jack S. Hale ([jack.hale@uni.lu](mailto:jack.hale@uni.lu)).
 Office hours: 1000-1100 Wednesdays, drop-in.
 
 #### Dates
