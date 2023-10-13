@@ -4,7 +4,7 @@
 
 ### Instructions
 
-Homework should be submitted by Friday 18th November 2022 1700.
+Homework should be submitted by Friday 17th November 2023 1700.
 
 Please submit your homework by saving files with name
 `LASTNAME_Firstname_Scientific_Python.ipynb` and
@@ -17,7 +17,7 @@ ECTS credits or the certification with "completed homework" mark.
 ### How to ask a question
 
 For both technical and non-technical questions about the homework please ask on
-the [Etherpad](https://pad.carpentries.org/spul2022). *Please do not post full
+the [Etherpad](https://pad.carpentries.org/spul2023). *Please do not post full
 solutions on the Etherpad. Small snippets of code to explain your question are
 OK though!*
 
