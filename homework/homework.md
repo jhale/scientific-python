@@ -4,7 +4,8 @@
 
 ### Instructions
 
-Homework should be submitted by Friday 17th November 2023 1700.
+Homework should be submitted by Friday 24th November 2023 1700 (extended from
+17th November 2023).
 
 Please submit your homework by saving files with name
 `LASTNAME_Firstname_Scientific_Python.ipynb` and
