@@ -14,11 +14,10 @@ Please see the [ACME](https://acme.uni.lu) system.
 
 #### Teaching units
 
-The course in the winter semester 2024 is officially scheduled within in the
-timeslot on Monday 1000-1300. Following the new rules set out by the Vice
-Rectorate for Academic Affairs and the guidance from the Department of
-Mathematics, the *actual course* will be taught continuously from 1315-1230 for
-a total of 3 TUs of 45 minutes.
+Following the rules set out by the Vice Rectorate for Academic Affairs the
+course will be taught as a continuous block of 3 TUs of 45 minutes from
+1315-1530. 
+
 
 ### Description
 
@@ -78,6 +77,17 @@ and receive the ECTS credits you must complete the coursework. The coursework
 will be assessed on the basis of code clarity as discussed in Session 2 of the
 course. I expect that most students will receive a good mark on the condition
 that they submit a clear, correct and complete piece of coursework.
+
+#### Attendance policy
+
+This is a practical course and attendance is mandatory. A maximum of 2 TUs can
+be missed across the semester. Further TUs missed will require a meeting with
+the instructor and study programme director.
+
+#### Retake policy
+
+There is no retake possible - register for the course again at the next
+available semester.
 
 ### Acknowledgements
 
