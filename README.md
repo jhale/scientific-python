@@ -1,5 +1,6 @@
 # Scientific Python
-## Winter Semester 2023/2024, Masters in Industrial Mathematics
+## Winter Semester 2024/2025
+## Masters in Mathematics
 ## Doctoral Programme in Science and Engineering (DSSE)
 
 ### Practicalities
@@ -8,16 +9,22 @@ Instructor: Jack S. Hale ([jack.hale@uni.lu](mailto:jack.hale@uni.lu)).
 Office hours: 1000-1100 Wednesdays, drop-in.
 
 #### Dates
-* 21/09, 1330-1600, MNO 1.050.
-* 28/09, 1330-1600, MNO 1.050.
-* 05/10, 1330-1600, MNO 1.050.
-* 11/10, 1330-1600, MNO 1.050.
+
+Please see the [ACME](https://acme.uni.lu) system.
+
+#### Teaching units
+
+The course in the winter semester 2024 is officially scheduled within in the
+timeslot on Monday 1000-1300. Following the new rules set out by the Vice
+Rectorate for Academic Affairs and the guidance from the Department of
+Mathematics, the *actual course* will be taught continuously from 1315-1230 for
+a total of 3 TUs of 45 minutes.
 
 ### Description
 
-This four session course covers the basics of scientific programming with Python.
-It is aimed at people who have done some programming before, perhaps on an
-undergraduate course, but need a refresher before starting their Masters or
+This four session course covers the basics of scientific programming with
+Python. It is aimed at people who have done some programming before, perhaps on
+an undergraduate course, but need a refresher before starting their Masters or
 Doctoral degrees at the University.
 
 ### Useful information
