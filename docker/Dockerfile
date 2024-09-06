@@ -1,5 +1,4 @@
-FROM continuumio/anaconda3:latest
+FROM continuumio/anaconda3:2024.06-1
 
 USER root
-RUN /opt/conda/bin/conda install -y jupyter && \
-    /opt/conda/bin/conda install -y -c conda-forge rise jupyterlab
+RUN /opt/conda/bin/conda install -y -c conda-forge jupyterlab_rise jupyterlab
