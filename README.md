@@ -14,9 +14,9 @@ Please see the [ACME](https://acme.uni.lu) system.
 
 #### Teaching units
 
-Following the rules set out by the Vice Rectorate for Academic Affairs the
-course will be taught as a continuous block of 3 TUs of 45 minutes beginning 15
-minutes after the scheduled start in the ACME system.
+(Changed) Following the rules set out by the Vice Rectorate for Academic Affairs the
+course will be taught as a continuous block of 3 TUs of 45 minutes beginning at
+the scheduled start in the ACME system.
 
 ### Description
 
