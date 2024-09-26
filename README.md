@@ -66,17 +66,18 @@ Doctoral degrees at the University.
 
 #### Doctoral candidates
 
-(Changed) A coursework will be distributed in the final class. To pass the
-course and receive the ECTS credits you must complete the coursework.
+(Changed) A coursework will be distributed in the final class with a due date
+of around one month. To pass the course and receive the ECTS credits you must
+complete the coursework.
 
 #### Masters candidates
 
-(Changed) A coursework will be distributed in the final class. To pass the
-course and receive the ECTS credits you must complete the coursework. The
-coursework will be assessed on the basis of code clarity as discussed in
-Session 2 of the course. I expect that most students will receive a good mark
-on the condition that they submit a clear, correct and complete piece of
-coursework.
+(Changed) A coursework will be distributed in the final class with a due date
+of around one month. To pass the course and receive the ECTS credits you must
+complete the coursework. The coursework will be assessed on the basis of code
+clarity as discussed in Session 2 of the course. I expect that most students
+will receive a good mark on the condition that they submit a clear, correct and
+complete piece of coursework.
 
 #### Attendance policy
 
