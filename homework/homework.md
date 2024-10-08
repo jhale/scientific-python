@@ -4,7 +4,7 @@
 
 ### Instructions
 
-Homework should be submitted by Friday 11th October 2024 1700 CET.
+Homework should be submitted by Friday 8th November 2024 1700 CET.
 
 Please submit your homework by saving files with name
 `LASTNAME_Firstname_Scientific_Python.ipynb` and
