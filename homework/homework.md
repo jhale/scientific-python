@@ -10,7 +10,7 @@ Please submit your homework by saving files with name
 `LASTNAME_Firstname_Scientific_Python.ipynb` and
 `LASTNAME_Firstname_monte_carlo.py`. Send an [email to
 jack.hale@uni.lu](mailto:jack.hale@uni.lu?subject=Scientific Python Homework)
-with the subject `Scientific Python Homework` with the two files as
+with the subject `Scientific Python Homework 2024` with the two files as
 attachments. It is mandatory to complete the homework in order to receive the
 ECTS credits or the certification with "completed homework" mark.
 
