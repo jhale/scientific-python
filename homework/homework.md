@@ -38,8 +38,8 @@ For the text answers try a [Markdown Cell](https://www.markdownguide.org) by
 using the *Text +* button on Google Colab.
 
 1. Read and execute the `matplotlib` sections in the [Jake Vanderplas book
-   (04.08-04.13)](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks) Write
-   a short (a few lines summary) of each section. Show three example plots.
+   (04.08-04.12)](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks) Write
+   a short (a few lines summary) of each section. Show three example plots in total.
 
 2. Explain and demonstrate 8 (or more!) pieces of ‘good practice’ when
    programming in Python. To illustrate each example, write a short ‘bad
