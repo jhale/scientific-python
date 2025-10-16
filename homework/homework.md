@@ -85,9 +85,10 @@ etc.).
 The completed code for this exercise should be submitted as a Python script
 `LASTNAME_Firstname_monte_carlo.py`. 
 
-Please read and follow the PEP8 style guide when writing your code. Most
+Please read and follow the [PEP8 style
+guide](https://peps.python.org/pep-0008/) when writing your code. Most
 formatting issues should be taken care of by the code formatter in step 8., but
-things like good variable naming cannot be automated.
+things like good variable naming cannot be automated!
 
 Beginning with the basic code in the notebook cell below:
 
