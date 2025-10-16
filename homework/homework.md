@@ -9,7 +9,7 @@ Homework should be submitted by Friday 28th November 2025 end-of-day.
 Please submit your homework by saving files with name
 `LASTNAME_Firstname_Scientific_Python.ipynb` and
 `LASTNAME_Firstname_monte_carlo.py`. Send an [email to
-jack.hale@uni.lu](mailto:jack.hale@uni.lu?subject=Scientific Python Homework
+jack.hale@uni.lu](mailto:jack.hale@uni.lu?subject=Scientific Python Homework 
 2025) with the subject `Scientific Python Homework 2025` with the two files as
 email attachments. It is mandatory to complete the homework in order to receive
 the ECTS credits or the certification with "completed homework" mark.
