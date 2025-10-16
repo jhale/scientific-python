@@ -4,20 +4,20 @@
 
 ### Instructions
 
-Homework should be submitted by Friday 8th November 2024 1700 CET.
+Homework should be submitted by Friday 28th November 2025 end-of-day.
 
 Please submit your homework by saving files with name
 `LASTNAME_Firstname_Scientific_Python.ipynb` and
 `LASTNAME_Firstname_monte_carlo.py`. Send an [email to
-jack.hale@uni.lu](mailto:jack.hale@uni.lu?subject=Scientific Python Homework)
-with the subject `Scientific Python Homework 2024` with the two files as
-attachments. It is mandatory to complete the homework in order to receive the
-ECTS credits or the certification with "completed homework" mark.
+jack.hale@uni.lu](mailto:jack.hale@uni.lu?subject=Scientific Python Homework
+2025) with the subject `Scientific Python Homework 2025` with the two files as
+email attachments. It is mandatory to complete the homework in order to receive
+the ECTS credits or the certification with "completed homework" mark.
 
 ### How to ask a question
 
 For both technical and non-technical questions about the homework please ask on
-the [Etherpad](https://pad.carpentries.org/spul2024). *Please do not post full
+the [Etherpad](https://pad.carpentries.org/spul2025). *Please do not post full
 solutions on the Etherpad. Small snippets of code to explain your question are
 OK though!*
 
@@ -43,7 +43,8 @@ using the *Text +* button on Google Colab.
 
 2. Explain and demonstrate 8 (or more!) pieces of ‘good practice’ when
    programming in Python. To illustrate each example, write a short ‘bad
-   example’, and an ‘improved example’ showing best practice.
+   example’, and an ‘improved example’ showing the application of best
+   practice.
 
 3. Explain the main differences between a list and a dictionary.
 
@@ -51,8 +52,8 @@ using the *Text +* button on Google Colab.
    arguments and `**kwargs`. Explain how using these three tools can improve
    the design of your functions.
 
-5. Why should you prefer using iterators over counters and indexing into list
-   or array elements?
+5. Why should you prefer using iterators over counting variables and indexing
+   into list or array elements?
 
 6. Write three routines for performing a dense [Matrix-Vector
    multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication) using:
@@ -98,17 +99,17 @@ Beginning with the basic code in the notebook cell below:
 5. In log-log space the error vs N does not form a straight line. If you run
    the code again, you will see that you get a different line. Why? 
 6. To solve this 'problem', you instead need to compute the mean error of the
-   estimator, that is, estimate the error M times (e.g. 50 times) for each N
-   and then compute the sample mean from the M estimates of the error. Modify
-   your code with a second loop to perform this operation.
-6. Calculate the slope of the mean error vs N data in log-log space using the
+   estimator, that is, estimate the error M times (e.g. 50 times) for each N,
+   and then compute the sample mean of the error from the M estimates. Add a 
+   a second for loop to perform this operation.
+6. Calculate the slope of the mean error vs N in log-log space using the
    functionality in `numpy.Polynomial`.
-   You should have a slope of around -0.5. Bonus: Is this the expected result?
-   Can you explain why?
+   You should have a slope of around -0.5. Does this conform with the expected
+   slope for the theoretical convergence rate for Monte Carlo estimation?
 7. Add axis labels and a title to your plot.
-8. Put your code through an automatic code formatter e.g. `autopep8 -i
+8. Put your code through an automatic code formatter e.g. `ruff format
    LASTNAME_Firstname_monte_carlo.py` before submitting it. You can install
-   autopep8 using `pip install autopep8`.
+   ruff using `pip install ruff`.
 
 ```python
 import numpy as np
@@ -125,7 +126,7 @@ def estimate_pi(N):
     estimate_pi = 4.0*num_inside/N
     return estimate_pi
 
-Ns = np.array([10, 100, 1000, 10000, 100000, 1000000], dtype=np.int64)
+Ns = np.array([10, 100, 1000, 10000, 100000, 1000000])
 errors = np.zeros_like(Ns, dtype=np.float64)
 for i, N in enumerate(Ns):
     errors[i] = np.abs(estimate_pi(N) - np.pi)

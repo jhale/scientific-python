@@ -1,5 +1,5 @@
 # Scientific Python
-## Winter Semester 2024/2025
+## Winter Semester 2025/2026
 ## Master in Mathematics
 ## Doctoral Programme in Science and Engineering (DSSE)
 
