@@ -4,22 +4,26 @@
 
 ### Instructions
 
-Homework should be submitted by Friday 28th November 2025 end-of-day.
+Homework should be submitted by Friday 27th November 2026 end-of-day.
 
 Please submit your homework by saving files with name
 `LASTNAME_Firstname_Scientific_Python.ipynb` and
 `LASTNAME_Firstname_monte_carlo.py`. Send an [email to
 jack.hale@uni.lu](mailto:jack.hale@uni.lu?subject=Scientific Python Homework 
-2025) with the subject `Scientific Python Homework 2025` with the two files as
+2026) with the subject `Scientific Python Homework 2026` with the two files as
 email attachments. It is mandatory to complete the homework in order to receive
 the ECTS credits or the certification with "completed homework" mark.
+
+*Submissions that do not follow the precise submission instructions above
+are counted as not received*.
 
 ### How to ask a question
 
 For both technical and non-technical questions about the homework please ask on
-the [Etherpad](https://pad.carpentries.org/spul2025). *Please do not post full
-solutions on the Etherpad. Small snippets of code to explain your question are
-OK though!*
+the [Etherpad](https://pad.carpentries.org/spul2026) or Moodle.
+
+*Please do not post full solutions on the Etherpad. Small snippets of code to
+explain your question are OK though!*
 
 ### Collaboration
 
