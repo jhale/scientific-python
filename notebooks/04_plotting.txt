@@ -1,1 +1,1 @@
-http://swcarpentry.github.io/python-novice-gapminder/09-plotting/index.html
+https://swcarpentry.github.io/python-novice-gapminder/09-plotting.html
