@@ -1,4 +1,5 @@
-http://swcarpentry.github.io/python-novice-inflammation/07-errors/index.html
-http://swcarpentry.github.io/python-novice-inflammation/08-defensive/index.html
+https://swcarpentry.github.io/python-novice-inflammation/09-errors.html
+https://swcarpentry.github.io/python-novice-inflammation/10-defensive.html
 https://packaging.python.org/tutorials/packaging-projects/
 https://github.com/pypa/sampleproject
+
